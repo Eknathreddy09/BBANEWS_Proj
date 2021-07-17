@@ -4,4 +4,5 @@
 <h2> container to be created in Ansible localhost </h2>
 <h2> Will be pulled automatically from git using poll scm </h2>
 
-<h2> Updated to test the poll scm job </h2>
+<h2> match is scheduled to start between India and Srilanka in few Hrs </h2>
+<h2> Carona threat is high </h2>
