@@ -6,3 +6,7 @@
 
 <h2> match is scheduled to start between India and Srilanka in few Hrs </h2>
 <h2> Carona threat is high </h2>
+
+<h2> Space flight  </h2>
+<h2> Andhra News </h2>
+<h2> Sports news </h2>
