@@ -10,3 +10,7 @@
 <h2> Space flight  </h2>
 <h2> Andhra News </h2>
 <h2> Sports news </h2>
+
+<h2> Apple sales  </h2>
+<h2> VMware  </h2>
+<h2> Amazon Prime </h2>
